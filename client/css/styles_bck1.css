@@ -1,0 +1,12 @@
+body{
+	background-color: blue;
+}
+h1{
+	color: red;
+}
+#paragraph{
+	font-size: 50px;
+}
+.par-class{
+	font-weight: bold;
+}
